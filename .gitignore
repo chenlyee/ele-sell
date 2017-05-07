@@ -1,0 +1,10 @@
+node_modules
+
+config/env/local.js
+
+*.log*
+# vs code config
+jsconfig.json
+typings.json
+typings
+.vscode
